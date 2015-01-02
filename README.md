@@ -6,6 +6,9 @@ Generic PHP Application template
 * [PHP v5.6.2](http://php.net/ChangeLog-5.php#5.6.2)
 * [Nginx v1.6.2](http://nginx.org)
 * [Supervisor v3.0b2](http://supervisord.org)
+* [Phalcon v1.34](http://www.phalconphp.com/en/)
+
+Size ~
 
 # Usage
 
@@ -15,7 +18,7 @@ Mount your own nginx.conf / php.ini files if required:
 * /etc/nginx/nginx.conf
 
 This image has no direct usage for the moment, use as base for
-building PHP applications images.
+building PHP application images.
 
 # License
 -------
