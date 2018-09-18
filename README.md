@@ -23,5 +23,5 @@ building PHP application images.
 # License
 -------
 
- * Dockerized Application Copyright 2014 [Red Buff Studio LTD](http://redbuffstudio.com)
+ * Dockerized Application Copyright 2018 [SportsEngineers](https://www.sportsengineers.com/)
  * Distributed under the MIT License (hereby included)

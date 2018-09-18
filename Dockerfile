@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER Boyan Bonev <b.bonev@redbuffstudio.com>
+MAINTAINER Antonio Valverde <avalverde@sortsengineers.com>
 
 #Setup container environment parameters
 ENV DEBIAN_FRONTEND noninteractive
